@@ -1,7 +1,8 @@
 {
   "EA300QQ": 
     {
-      "hasCampaign": true
+      "hasCampaign": true,
+      "campaignList": ["C4546", "S1234", "P0088"]
     },
   "EA568RP":
     {
@@ -13,7 +14,8 @@
     },
   "RTF123":
     {
-      "hasCampaign": false
+      "hasCampaign": true,
+      "campaignList": ["JB0007", "D6666"]
     },
   "FJ474AK":
     {
